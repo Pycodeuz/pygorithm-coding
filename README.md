@@ -1,5 +1,5 @@
-# pygorithm-coding
-pygorithm coding including most important algorithms
+# # # # pygorithm-coding # # # #
+# # pygorithm coding including most important algorithms # #
 
 
 Sorting Algorithms:
